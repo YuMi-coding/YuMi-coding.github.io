@@ -10,7 +10,15 @@ Email: yxm319@case.edu    Tel: +1-216-235-3067  Page: https://github.com/YuMi-co
 
 Address:  11401 Euclid Avenue, Ste 605, Cleveland, Ohio, USA, 44106
 
-I am most interested in **Software-Defined Networking**, **Data center Networking** and network performance optimization, especially in enabling **virtual network functions** in SDNs and enhancing network throughput by adopting **in network computing techniques**. I have experience in developing network functions and hacking complex network systems.
+My principal areas of interest lie in **Software-Defined Networking**, **Mobility Networking**, and **network performance optimization**. My work predominantly explores two key research directions. 
+
+The first concentrates on utilizing **Machine Learning** techniques to enhance network performance, encompassing areas like network security and network stack tuning. 
+
+The second research focus revolves around the improvement of **network mobility** by leveraging in-network computing techniques. This is facilitated by the utilization of **eBPF** and **SRv6**, which assist in constructing an overlay.
+
+
+
+I have a wealth of experience in both the development of network functions and the intricate manipulation of complex network systems.
 
 ## Education
 
